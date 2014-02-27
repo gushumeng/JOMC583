@@ -1,0 +1,296 @@
+[
+	{"pk":1, 
+	 "model": "roster.Player", 
+	 "fields": {
+		"no":1, 
+		"name":"Kayla Berringer", 
+		"position":"OH/OPP", 
+		"height":"6'1", 
+		"year":"Sr.", 
+		"hometown":"EI Dorado Hills, Calif", 
+		"highSchool":"Oak Ridge", 
+		"club":"NCVC", 
+		"juniorSeason":"Ranked second on the team in kills (278, 2.67/set), third in attack (.189), and fourth in blocks (45.0, 0.40/set). Had a season-high 17 kills in match vs. Long Beach State (8/25) and four blocks in match vs. Miami (11/2). Tallied double-digit kills in 14 matches. Named to 2012 Aggie Invite All-Tournament Team. Named to 2012 Carolina Classic All-Tournament Team.", 			"sophomoreSeason":"Compiled a career-high 326 kills, the third highest total on the team. Posted a career high .227 attack percentage, 59 digs and 35 blocks. Collected double-digit kills in 18 matches. 2011 Western Michigan Invitational All-Tournament team selection", 
+		"freshmanSeason":"Appeared in 24 matches and played in 53 sets in her freshman campaign. Averaged 1.70 kills per set and 0.43 blocks per set. Posted a rookie season-high 12 kills in a 3-1 win over Ball State (9/17). Registered eight kills and .278 hitting percentage in a 3-0 win against New Mexico State (9/11). Cranked a .500 hitting percentage recording nine kills in 16 swings in a 3-0 win over Virginia (10/23). Followed that performance posting nine kills, two blocks and a .389 clip in a 3-1 win at Boston College (10/29).  Posted 11 kills and two blocks in Carolina's 3-1 win over Ole Miss in the NCAA first round (12/4).", 
+		"image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/HD/HDBHUHHLXJMIODU.20130808212224.jpg"
+	}
+}, 
+{"pk":2, 
+	 "model": "roster.Player", 
+	 "fields": {
+		"no":2, 
+		"name":"Heather Gearhart", 
+		"position":"DS/L", 
+		"height":"5'5", 
+		"year":"So.", 
+		"hometown":"Chula Vista, Calif", 
+		"highSchool":"Bonita Vista", 
+		"club":"Coast Volleyball Club", 
+		"juniorSeason":null,
+		"sophomoreSeason":null,
+		"freshmanSeason":"Played in 11 matches her freshman season. Recorded two aces in a match vs. Virginia (11/17). Tallied five digs and two aces on the year.", 
+		"image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/BE/BEOBQPXLPBZIOYY.20130808212239.jpg"
+	}
+}, 
+{"pk":4, 
+	 "model": "roster.Player", 
+	 "fields": {
+		"no":4, 
+		"name":"Leigh Andrew", 
+		"position":"OH", 
+		"height":"6'0", 
+		"year":"So.", 
+		"hometown":"Ft. Lauderdale, Fla", 
+		"highSchool":"Cardinal Gibbons", 
+		"club":"Boomers Volleyball Club", 
+		"juniorSeason":null,
+		"sophomoreSeason":null,
+		"freshmanSeason":"Battled back from injury to play in 23 of 32 matches, starting three in her rookie season. Was a key sub who saw most of her acion in the back row and stabailzed serve receive and defense.  Great server, posting three aces vs. NC State (11/21). Recorded double-digit digs in four matches, with a season-high 12 vs. Florida State (11/3), when she also tallied a season-high seven kills.", 
+		"image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/LO/LOUUNHRLLVKSCDX.20130808212221.jpg"
+	}
+}, 
+{"pk":5, 
+	 "model": "roster.Player", 
+	 "fields": {
+		"no":5, 
+		"name":"Paige Neuenfeldt", 
+		"position":"MB", 
+		"height":"6'2", 
+		"year":"So.", 
+		"hometown":"Birmingham, Mich", 
+		"highSchool":"Seaholm", 
+		"club":"Legacy Volleyball Club", 
+		"juniorSeason":null, 
+		"sophomoreSeason":null,
+		"freshmanSeason":"Named 2012 ACC Freshman of the Year. Named 2012 AVCA Freshman of the Region. Received 2012 AVCA All-America honorably mention. 2012 All-ACC Academic team selection. Led the team with 135 blocks (1.18/set) and ranked fourth in kills (277 (2.43/set). Ranked fourth in the ACC in blocks and eighth in hitting percentage (.330). Recorded a season-high 17 kills vs. Iowa State (11/30).", 
+		"image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/SL/SLCJOMEECPCOWKT.20130808212251.jpg"
+	}
+}, 
+{"pk":7, 
+	 "model": "roster.Player", 
+	 "fields": {
+		"no":7, 
+		"name":"Victoria McPherson", 
+		"position":"MB", 
+		"height":"6'2", 
+		"year":"So.", 
+		"hometown":"Ft. Lauderdale, Fla. ", 
+		"highSchool":"North Broward Prep ", 
+		"club":"Boomers Volleyball Club ", 
+		"juniorSeason":null, 
+		"sophomoreSeason":null,
+		"freshmanSeason":"Earned a starting spot late in the season, playing 20 matches and starting five. Grabbed double-digit kills in her final three matches, with a season-high 12 kills vs. NC State (11/21). Recorded four or more blocks in four matches, with a season-high five vs. Iowa State (11/30).", 
+		"image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/SJ/SJBWKXOMLBNUBRT.20130808212246.jpg"
+	}
+}, 
+{"pk":8, 
+	 "model": "roster.Player", 
+	 "fields": {
+		"no":8, 
+		"name":"Lauren Adkins", 
+		"position":"OH", 
+		"height":"6'0", 
+		"year":"Jr.", 
+		"hometown":"Oviedo, Fla", 
+		"highSchool":"Lake Howell", 
+		"club":"Orlando Volleyball Academy", 
+		"juniorSeason":null, 
+		"sophomoreSeason":"Recorded season-high 15 kills in two matches: vs. Ohio (9/15) and at Virginia Tech (10/14). Earned a starting spot with a breakout performance vs. Virginia Tech (10/14), starting 13 of 26 matches played. Finished ranked third on the team in aces with 16 (0.22/set).",
+		"freshmanSeason":"Recorded six kills and one block over six matches played in her first season as a Tar Heel • Saw action against the University of Florida and Florida State in her rookie season.", 
+		"image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/MX/MXSBPGLXTIPHFXE.20130808212216.jpg"
+	}
+}, 
+{"pk":9, 
+	 "model": "roster.Player", 
+	 "fields": {
+		"no":9, 
+		"name":"Ece Taner", 
+		"position":"DS/L", 
+		"height":"5'6", 
+		"year":"Jr.", 
+		"hometown":"Izmir, Turkey", 
+		"highSchool":"Isikkent", 
+		"club":"Isikkent Club Team", 
+		"juniorSeason":null, 
+		"sophomoreSeason":"Named to 2012 Kentucky Classic All-Tournament Team. Ranked eighth in the ACC with 484 digs (4.00/set). Recorded 20+ digs in seven matches, with a season-high 28 digs vs. Long Beach State (8/25) and vs. Duke (9/23). Tallied double-digit digs in 25 of 32 matches. Led the team with 484 digs (4.00/set).",
+		"freshmanSeason":"Appeared in 89 sets for the Tar Heels in 2011. Finished fifth on the team with 145 digs and posted a 1.63 dig average. Tallied the fourth most service aces (15) on the team • Recorded 30 assists.", 
+		"image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/YZ/YZVXXGLMIDCSVLA.20130808212300.jpg"
+	}
+}, 
+{"pk":10, 
+	 "model": "roster.Player", 
+	 "fields": {
+		"no":10, 
+		"name":"Chaniel Nelson", 
+		"position":"OH", 
+		"height":"6'2", 
+		"year":"Jr.", 
+		"hometown":"Huntersville, NC", 
+		"highSchool":"Hopewell", 
+		"club":"Carolina Juniors", 
+		"juniorSeason":null, 
+		"sophomoreSeason":"2012 All-ACC Team selection. Named to all-tournament team and named MVP of the 2012 Aggie Invite. Named to 2012 Carolina Classic All-Tournament Team.  Ranked second on the team with 123 blocks (1.02/set) and attack (.236), and third in kills (278, 2.30/set). Recorded 17 kills twice (vs. Western Michigan, 9/8, and at Duke, 10/26) and had 10 blocks at Iowa State (11/30).",
+		"freshmanSeason":"2011 All-ACC Team selection. 2011 AVCA All-America Honorable Mention. 2011 AVCA All-East Region honoree. Amassed 329 kills, the second best total on the team. Netted a team-high 119 blocks. Finished 10th in the ACC in block average (1.03). Registered double-digit kills in 16 matches, with 10 blocks in a match twice. Posted 16 kills and 10 blocks (26 points) in the 2011 NCAA Tournament vs. No. 10 Cal. 2011 Tar Heel Classic All-Tournament team selection. Earned a spot on the USA Women's National A2 Team. COBRA Magazine All-East Region.", 
+		"image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/TX/TXMRTLBEHYKZFDB.20130808212249.jpg"
+	}
+}, 
+{"pk":11, 
+	 "model": "roster.Player", 
+	 "fields": {
+		"no":11, 
+		"name":"Sheila Doyle", 
+		"position":"DS/L", 
+		"height":"5'5", 
+		"year":"Fr.", 
+		"hometown":"La Grange Park, Ill.", 
+		"highSchool":"Benet Academy", 
+		"club":"1st Alliance Volleyball Club", 
+		"juniorSeason":null, 
+		"sophomoreSeason":null,
+		"freshmanSeason":null, 
+		"image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/DQ/DQMYVRBNVMBKOJB.20130808212234.jpg"
+	}
+}, 
+{"pk":12, 
+	 "model": "roster.Player", 
+	 "fields": {
+		"no":12, 
+		"name":"Kaitlyn Anderson", 
+		"position":"DS/S", 
+		"height":"5'9", 
+		"year":"Sr.", 
+		"hometown":"Ayden, NC", 
+		"highSchool":"D.H Conley", 
+		"club":"East Carolina Juniors", 
+		"juniorSeason":"Was a strong reserve off the bench for the Tar Heels, playing 69 sets in 21 matches. Tallied 78 digs, 14 assists and six aces. Recorded five or more digs seven times. Served two aces vs. Utah (9/1).", 
+		"sophomoreSeason":"Key defensive substitute, collecting 142 digs. Finished third on the team in dig average (1.87). Named to the Capital One Academic All-District Volleyball Team. Named to the 2010-11 All-ACC Honor Roll. Tallied a career-high 21 digs vs. Miami (11/11).",
+		"freshmanSeason":"Appeared in 10 sets in her freshman season. Recorded a pair of assists in 3-0 sweep of Virginia Tech (10/22). Often used in serve situations, registered two serve aces in 2010.", 
+		"image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/QS/QSCAUJMVKAIJGLU.20130808212219.jpg"
+	}
+}, 
+{"pk":13, 
+	 "model": "roster.Player", 
+	 "fields": {
+		"no":13, 
+		"name":"Jordyn Schnabl", 
+		"position":"S", 
+		"height":"5'9", 
+		"year":"So.", 
+		"hometown":"Long Beach, Calif. ", 
+		"highSchool":"Los Alamitos ", 
+		"club":"T-Street Volleyball Club ", 
+		"juniorSeason":null, 
+		"sophomoreSeason":null,
+		"freshmanSeason":"Had a strong impact as one of two setters in Carolina's 6-2 system. Played in 29 of 32 matches in her first season. Tallied 474 assists (5.39/set), second highest on the team.", 
+		"image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/GC/GCFLOJXKBJYXEIB.20130808212257.jpg"
+	}
+}, 
+{"pk":14, 
+	 "model": "roster.Player", 
+	 "fields": {
+		"no":14, 
+		"name":"Jovana Bjelica", 
+		"position":"OH", 
+		"height":"5'10", 
+		"year":"Gr.", 
+		"hometown":"Belgrade, Serbia ", 
+		"highSchool":"Zemunska Gimnazija ", 
+		"club":"Florida International ", 
+		"juniorSeason":"Started all 30 matches as a junior, posting team-high marks of 479 kills and 21 aces. Also recorded 285 digs and 63 blocks and a team-best 11 double-doubles in 2011. Named to 2011 Sun Belt Conference First Team and 2011 SBC Academic Honor Roll. Named the SBC Player of the Week four times in 2011. Named to the SBC Commissioner's List for positing a 3.5 GPA or higher in 2010. 2009 AVCA All-South Region. 2009 SBC Freshman of the Year and named to All-Conference second team. 2009 AVCA All-America Honorable Mention.",
+		"sophomoreSeason":null,
+		"freshmanSeason":null, 
+		"image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/KX/KXPZXEQZKJMRIWY.20130808212228.jpg"
+	}
+}, 
+{"pk":16, 
+	 "model": "roster.Player", 
+	 "fields": {
+		"no":16, 
+		"name":"Chaney LaReau", 
+		"position":"DS/L", 
+		"height":"5'9", 
+		"year":"Jr.", 
+		"hometown":"Glen Allen, Va. ", 
+		"highSchool":"Deep Run", 
+		"club":"Richmond Volleyball Club ", 
+		"juniorSeason":null, 
+		"sophomoreSeason":"Played in 21 matches as a strong sub off the bench. Finished the year with 16 digs and six aces. Recorded three aces vs. Long Beach State (8/25).",
+		"freshmanSeason":" Appeared in 12 sets, tallying four digs for the Tar Heels during the 2011 campaign. Came in as a key serving and defensive player. Helped the Tar Heels with wins at NC State and Virginia.", 
+		"image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/ZF/ZFHSSEVNNMARGQD.20130808212241.jpg"
+	}
+}, 
+{"pk":17, 
+	 "model": "roster.Player", 
+	 "fields": {
+		"no":17, 
+		"name":"Abigail Curry", 
+		"position":"S", 
+		"height":"5'8", 
+		"year":"Fr.", 
+		"hometown":"Plano, Texas", 
+		"highSchool":"Plano West", 
+		"club":"Dallas Skyline Junior", 
+		"juniorSeason":null, 
+		"sophomoreSeason":null,
+		"freshmanSeason":null, 
+		"image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/LE/LEAPRXJLYGWBWRT.20130808212232.jpg"
+	}
+},
+{"pk":18, 
+	 "model": "roster.Player", 
+	 "fields": {
+		"no":18, 
+		"name":"Tatiana Durr", 
+		"position":"OH/MB", 
+		"height":"6'1", 
+		"year":"Fr.", 
+		"hometown":"San Diego, Calif.", 
+		"highSchool":"Cathedral Catholic", 
+		"club":"Wave Volleyball Club", 
+		"juniorSeason":null, 
+		"sophomoreSeason":null,
+		"freshmanSeason":null, 
+		"image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/UU/UUSAZDOUFFIVJAK.20130808212237.jpg"
+	}
+},
+{"pk":20, 
+	 "model": "roster.Player", 
+	 "fields": {
+		"no":20, 
+		"name":"Taylor Treacy", 
+		"position":"OH/MB", 
+		"height":"6'2", 
+		"year":"Fr.", 
+		"hometown":"Columbia, S.C.", 
+		"highSchool":"Irmo", 
+		"club":"Magnum Volleyball Club", 
+		"juniorSeason":null, 
+		"sophomoreSeason":null,
+		"freshmanSeason":"Redshirted the 2012 season.", 
+		"image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/BI/BIBFPEWMJAVXZJY.20130808212305.jpg"
+	}
+}, 
+{"pk":21, 
+	 "model": "roster.Player", 
+	 "fields": {
+		"no":21, 
+		"name":"Hayley McCorkle", 
+		"position":"MB/OH", 
+		"height":"6.0", 
+		"year":"Fr.", 
+		"hometown":"Winterville, N.C. ", 
+		"highSchool":"South Central ", 
+		"club":"East Carolina Juniors ", 
+		"juniorSeason":null, 
+		"sophomoreSeason":null,
+		"freshmanSeason":"Redshirted the 2012 season.", 
+		"image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/YW/YWHGNMTHZLFVCPZ.20130808212244.jpg"
+	}
+}
+
+
+
+
+
+
+]

@@ -1,0 +1,86 @@
+{% extends "base.html"%}
+
+{% block content %}
+
+
+
+<div class="row">
+    
+    <div class="col-md-12"> 
+      
+      <div class="panel">
+        <div class="panel-body">
+          
+          <div class="row" >    
+            
+          <div class="col-md-10 col-sm-9">
+              <h3>UNC Volleyball- 2013 Roster</h3>
+             
+              <br><br>
+            </div>
+            
+          </div>
+          
+          <div class="row" >    
+          <div class="col-md-12 col-sm-12">
+               <img id="ig1" alt="volleyball picture" src="http://image.cdnllnwnl.xosnetwork.com/pics33/1024/BV/BVOEZBJRDYNZOVK.20130906203423.jpg" style="display: block;
+    margin-left: auto;
+    margin-right: auto;">
+             
+              <br><br>
+            </div>
+        
+            
+          </div>
+         
+          
+          <div class="row" >
+            <div class="table-responsive" style="text-align:center;">   
+                <table class="table table-striped table-hover" >
+                	<thead>
+                		<tr>
+                			<th>No.</th>
+                			<th>Name</th>
+                			<th>Pos.</th>
+                			<th>Ht.</th>
+                			<th>Yr.</th>
+                			<th>Hometown(high school)</th>
+                		</tr>
+                	</thead>
+                	<tbody>
+                		
+                		{% for player in players %}
+                		<tr>
+                			<td>{{player.no}}</td>
+                			<td><a href="{{ player.no}}">{{player.name}}</a></td>
+                			<td>{{player.position}}</td>
+                			<td>{{player.height}}</td>
+                			<td>{{player.year}}</td>
+                			<td>{{player.hometown}}({{player.highSchool}})</td>
+                		</tr>
+                		{% endfor %}
+                	</tbody>
+
+                </table>
+            </div>
+
+          </div>
+        
+                  
+          
+        
+          <!--/stories-->
+          
+         
+        
+        
+        </div>
+      </div>
+                                                                                       
+	                                                
+                                                      
+   	</div><!--/col-12-->
+  </div>
+
+{% endblock %}
+

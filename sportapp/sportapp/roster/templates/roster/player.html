@@ -1,0 +1,61 @@
+{% extends "base.html"%}
+
+{% block content %}
+
+<div class="row">
+    
+    <div class="col-md-12"> 
+      
+      <div class="panel">
+        <div class="panel-body">
+          
+          <div class="row" >    
+            
+          <div class="col-md-10 col-sm-9">
+              <h2>{{player.name}}</h2>
+             
+              <br><br>
+            </div>
+            
+          </div>
+          
+          <div class="row" >    
+          <div class="col-md-3 col-sm-6">
+               <img id="ig1" alt="picture" src="{{player.image}}" >
+            </div>
+          <div class="col-md-9 col-sm-6">
+               <dl class="dl-horizontal">
+                <dt>Position</dt> <dd>{{player.position}}</dd>
+                <dt>Height</dt>  <dd>{{player.height}}</dd>
+                <dt>Year</dt><dd> {{player.year}}</dd>
+                <dt>HomeTown</dt><dd> {{player.hometown}}</dd> 
+                <dt>High School</dt><dd> {{player.highSchool}}</dd>
+                <dt>Club</dt><dd> {{player.club}}</dd><br>
+                <dt>Junior Season</dt><dd> {{player.juniorSeason}}</dd><br>
+                <dt>Sophomore Season</dt><dd> {{player.sophomoreSeason}}</dd><br>
+                <dt>Freshman Season</dt><dd>{{player.freshmanSeason}} </dd>   <br>
+               </dl>
+          </div>
+            
+          </div>
+         
+          
+          
+        
+                  
+          
+        
+          <!--/stories-->
+          
+         
+        
+        
+        </div>
+      </div>
+                                                                                       
+                                                  
+                                                      
+    </div><!--/col-12-->
+  </div>
+
+{% endblock %}
